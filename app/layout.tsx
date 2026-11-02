@@ -1,4 +1,3 @@
-// @ts-expect-error Next.js loads this global stylesheet at runtime.
 import "@/app/ui/globals.css";
 import { inter } from "./ui/fonts";
 
